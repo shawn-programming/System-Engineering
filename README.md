@@ -1,7 +1,8 @@
-ACADEMIC INTEGRITY
+Operating System
 -----
-Please review the University of Illinois Student Code before starting,
-particularly all subsections of Article 1, Part 4 Academic Integrity and Procedure [here](http://studentcode.illinois.edu/article1_part4_1-401.html).
+This is a project done by Heonjang Lee and 3 other teammates. 
+
+Please do not plagiarize, and if you do so you are disobeying the following University of Illinois' academic policy.
 
 **§ 1‑402 Academic Integrity Infractions**
 
